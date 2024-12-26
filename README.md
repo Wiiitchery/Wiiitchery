@@ -1,7 +1,7 @@
 ### <div align="center">Hey👋. I'm a full-time full-stack freelance developer.</div>  
   
 
-- 🔭 I’m currently working on my [Minecraft network](https://discord.witchmc.com).  
+- 🔭 I’m currently working on my [Minecraft network](http://discord.witchmc.net).  
   
   
 - 🌱 I’m currently learning Kubernetes  
